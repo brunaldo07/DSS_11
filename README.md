@@ -1,9 +1,9 @@
 # DSS_11
 
-## Polytechnic University of Madrid
-## Msc. in Data Science
-## Course: Data Science Seminars
-### The Scientific Paper of the Future: Best Practices for Sharing Data, Software and Methods when writing Research Reports
+### Polytechnic University of Madrid
+### Msc. in Data Science
+### Course: Data Science Seminars
+#### The Scientific Paper of the Future: Best Practices for Sharing Data, Software and Methods when writing Research Reports
 
 Repository containing the task proposed by Daniel Garijo in the 11th seminar of this course. 
 Content:
