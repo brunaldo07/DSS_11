@@ -10,4 +10,4 @@ Content:
 1. Python Scripts
 - random_nums.py: generates a list of 1000 numbers from 0 to 100 and stores it in a json file
 - view.py : takes the output file from the previous script and makes a visualization of the distribution of the numbers
-2. Sample output list from the first script
+2. numbers.json: sample output list from the first script
